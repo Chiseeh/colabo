@@ -1,5 +1,0 @@
-print("hola buenas")
-print("tardes")
-print("como")
-print("le")
-print("va")
